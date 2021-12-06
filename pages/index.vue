@@ -1,9 +1,9 @@
 <template>
-  <Test />
+  <Dashboard />
 </template>
 
 <script>
-import Test from '../components/Test.vue'
+import Dashboard from './dashboard.vue'
 export default {
-  components: { Test },}
+  components: { Dashboard },}
 </script>
