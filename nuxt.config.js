@@ -51,6 +51,7 @@ export default {
         src: "/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js",
         body: true,
       },
+      { src: '/plugins/bootstrap/js/bootstrap.bundle.min.js', body: true },
       { src: "/dist/js/adminlte.js", body: true },
     ],
     bodyAttrs: {
